@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Tournament17an"
+  "defaultProject": "Tournament17an",
+  "cli": {
+    "analytics": "e4576914-8e1f-4b03-84e8-75b9f4c61180"
+  }
 }
